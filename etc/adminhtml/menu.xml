@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add
+            id="Adeelq_CoreConfigDataViewer::CoreConfigDataViewer"
+            title="View Config Data"
+            module="Adeelq_CoreConfigDataViewer"
+            sortOrder="100"
+            action="adeelq_config/config"
+            resource="Adeelq_CoreConfigDataViewer::CoreConfigDataViewer"
+            parent="Adeelq_CoreModule::Reports"
+        />
+    </menu>
+</config>
