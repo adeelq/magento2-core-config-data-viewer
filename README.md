@@ -20,3 +20,10 @@ It is recommended to use [composer](https://getcomposer.org) to install the modu
 $ composer require adeelq/magento2-core-config-data-viewer
 ```
 If you do not use composer, ensure that you also load any dependencies that this module has.
+
+## Screenshots
+### Menu
+![menu.jpeg](menu.jpeg)
+
+### Grid
+![grid.jpeg](grid.jpeg)
